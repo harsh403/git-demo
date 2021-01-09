@@ -6,4 +6,4 @@ This is the first file in this repo.
 
 Some text below so that we can see that in the next commit.
 
-Some more data that we added here.
+Website content replaced some text that was already here.
